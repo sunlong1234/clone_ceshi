@@ -1,3 +1,0 @@
-clone test for info
-cccc
-3333
